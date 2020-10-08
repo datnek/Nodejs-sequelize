@@ -1,0 +1,85 @@
+https://www.npmjs.com/package/sequelize-cli-typescript
+npm install -g sequelize-cli-typescript
+npm install  sequelize-cli-typescript  sequelize-typescript typescript ts-node @types/express @types/node @types/validator @types/bluebird reflect-metadata
+npm install -g sequelize-typescript-generator
+npm install @types/sequelize
+
+
+npm install --save express body-parser jsonwebtoken dotenv csrf csurf uuid  cors mysql2 @babel/runtime
+npm install --save-dev sequelize supertest sequelize-cli @types/cors @babel/preset-typescript @babel/plugin-transform-runtime
+npm install --save-dev  @babel/core @babel/cli @babel/preset-env @babel/plugin-proposal-class-properties @babel/plugin-proposal-object-rest-spread
+npm install --save-dev cross-env @types/node @types/express typescript tslint morgan  nodemon jest coverage node-coverage @babel/plugin-transform-modules-commonjs
+npm install --save-dev reflect-metadata inversify @types/inversify @types/bluebird @types/validator @types/sequelize child-process-async md5-hex @types/uuid ts-jest  @types/supertest
+
+npm init -y &&
+ npm i --save @babel/runtime @babel/runtime-corejs3 bcrypt
+ npm i --save bluebird body-parser class-validator
+ npm i --save compression core-js cors csrf csurf es6-promise
+ npm i --save express-limiter helmet http-status-codes jsonwebtoken
+ npm i --save rate-limiter-flexible redis validator winston
+
+
+
+npm i pascal-case
+https://www.npmjs.com/package/sequelize-typescript-generator
+npm install -g npx
+npm install --save-dev
+http://rsseau.fr/en/programming/2019/06/19/express-typescript.html
+
+sequelize model:generate --name User --attributes Username:string,Slug:string,Email:string,Password:string,Firstname:string,Lastname:string,Phone:string,Civility:string,Sex:string,Birthdate:date
+sequelize model:generate --name Localization --attributes Longitude:float,Slug:string,Latitude:float
+,Country:string,City:string,Region:string,Fullname:string,Street:string,Streetnumber:string,Postalcode:string,Ip:string,Pcmacaddress:string,continent
+:string,Timezone:string
+sequelize model:generate --name Security --attributes Token:string,Slug:string,Policy:string,Private
+code:string,Origin:string,Expiretime:float,UserId:integer
+
+
+
+
+https://blog.ajanthab.com/javascript/es6/js/2018/09/17/ES6-Babel-7-Typescript-Express.js.html
+https://medium.com/@enetoOlveda/how-to-create-a-restful-api-with-express-typescript-webpack-babel-ff6f0847d6e6
+Conventions : Le Camel case
+Conventions : Le Pascal case
+Conventions : Le Kebab case ou Spinal case
+Conventions : L’Underscore case ou Snake case
+
+//  "exec": "npm run build && node dist/server.js"
+
+//Injection des dépendances
+https://medium.com/@michael.m/using-injection-js-with-express-and-typescript-7ae07fbdaa5a
+
+
+// user sequelize condition
+https://stackoverflow.com/questions/20695062/sequelize-or-condition-object
+
+https://medium.com/swlh/node-typescript-api-template-with-dependency-injection-93d7150e516a
+
+https://withjavascript.mariuszrajczakowski.me/blog/tdd-a-restful-api-with-node-express-typescript-and-jest-part-1
+
+https://github.com/jcoreio/promisify-child-process
+
+https://github.com/inversify/InversifyJS
+https://docs.google.com/presentation/d/1YlOFTloOu8a8J3wfG4CZxx_34CpP-auhStVKp-ha7T0/htmlpresent
+https://medium.com/@pvictorsys/dependency-injection-in-typescript-with-inversify-e956fa28b668
+https://levelup.gitconnected.com/node-js-advanced-pattern-dependency-injection-container-fc58a1946638
+Processus de développement rapide
+Découplage
+Écriture de test unitaire
+
+
+
+//mailling
+https://medium.com/@.jay/sending-email-using-express-js-with-nodemailer-in-heroku-71741f29463c
+
+https://www.npmjs.com/package/base64-async
+
+
+sequelize operator
+https://sequelize.org/master/manual/model-querying-basics.html
+
+
+//validate model
+https://sequelize.org/master/manual/validations-and-constraints.html#unique-constraint
+
+// Forcer l'utilisation de require coté client
+https://stackoverflow.com/questions/43104114/cannot-find-name-require-after-upgrading-to-angular4
